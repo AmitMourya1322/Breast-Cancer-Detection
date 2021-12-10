@@ -41,3 +41,10 @@ Class distribution: 357 benign, 212 malignant
 Since we are not doctor all you need to know is malignant means women have cancer and benign means she does not have
 
 First thing we have to do is import important modules that we are going to use [we are going to call machine learning modules later onwards]
+
+
+Aim of this project
+Data Cleaning
+Data Visulisation
+Machine learning using Naive Bayes Method (It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.)
+PCA is done to reduce the number of dimensions
