@@ -46,5 +46,8 @@ First thing we have to do is import important modules that we are going to use [
 Aim of this project
 Data Cleaning
 Data Visulisation
-Machine learning using Naive Bayes Method (It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.)
+Machine learning using RandomForestClassifier ,KNeighborsClassifier 
+Random Forest Classifier(It makes no. of decision by combining all those decision base on that it give the result)
+KNeighborsClassifier (It makes cluster of data base on region in which cluster our data is found or the distance between the data and cluster it give the result)
 PCA is done to reduce the number of dimensions
+
